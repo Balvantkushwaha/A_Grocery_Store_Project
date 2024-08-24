@@ -1,2 +1,2 @@
- this is project only html and css using and something javaScript .
- fronted develop website . in this project.
+Welcome to A Grocery Store by given college as project . <br>
+in B.Sc.(CS) 2nd year
